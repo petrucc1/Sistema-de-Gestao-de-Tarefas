@@ -2,6 +2,17 @@
 
 Este é um sistema de gestão de tarefas desenvolvido usando Flask no backend e Angular no frontend. Ele permite adicionar, editar, remover e marcar tarefas como concluídas, proporcionando uma experiência interativa ao usuário com uma comunicação eficiente entre o backend e o frontend.
 
+## Índice
+
+1. [Funcionalidades](#funcionalidades)
+2. [Pré-requisitos](#pré-requisitos)
+3. [Instalação](#instalação)
+4. [Configuração](#configuração)
+5. [Como Usar](#como-usar)
+6. [Estrutura do Projeto](#estrutura-do-projeto)
+7. [Rotas da API](#rotas-da-api)
+8. [Telas e Componentes](#telas-e-componentes)
+
 ## Funcionalidades
 
 - Adicionar uma nova tarefa
